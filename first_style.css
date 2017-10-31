@@ -1,0 +1,33 @@
+h1{
+    color: midnightblue;
+    font-size: 100px;
+}
+
+h2{
+    color: mediumblue;
+    text-align: left;
+}
+
+h3{
+    color: royalblue;
+    text-align: left;
+}
+
+ul{
+    color: black;
+    text-align: left;
+}
+
+a{
+    color: purple;
+}
+
+p{
+    color: #000044;
+    text-align: left;
+}
+
+body{
+    background-color: cyan;
+    text-align: center;
+}

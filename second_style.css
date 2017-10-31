@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #440000;
+    color: white;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: lightpink;
+}
+
+h3{
+    color: hotpink;
+}
+
+ul{
+    color: red;
+    border: 50px;
+}
+
+a{
+    color: magenta;
+}
+
+p{
+    color: #FFDDDD;
+}
