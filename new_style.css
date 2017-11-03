@@ -1,0 +1,39 @@
+body{
+    background: white url("totoro_3.png") no-repeat fixed right bottom;
+    margin-top: 10px;
+    margin-right: 200px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    font-family: ariel, cursive;
+}
+
+h1{
+    color: midnightblue;
+    text-shadow: 2px 2px 5px lightblue;
+}
+
+h2{
+    color: midnightblue;
+    text-shadow: 2px 2px 5px lightblue;
+}
+
+h3{
+    color: midnightblue;
+    text-shadow: 2px 2px 5px lightblue;
+}
+
+strong{
+    color: red;
+}
+
+ol{
+    border-style: solid;
+    border-color: midnightblue;
+    border-width: 2px;
+}
+
+ul{
+    border-style: dotted;
+    border-color: midnightblue;
+    border-width: 3px;
+}
